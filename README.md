@@ -7,7 +7,15 @@ This project analyzes paid media performance across campaigns, platforms, ad for
 The goal was to simulate a real-world Growth Analytics workflow: starting from raw relational data, validating data quality, building an analytical layer with SQL, developing interactive Tableau dashboards and translating the findings into actionable marketing recommendations.
 
 **Tools:** BigQuery · SQL · Tableau Public  
-**Dataset:** 400K advertising events · 200 ads · 50 campaigns · 10K user records
+**Dataset:** 400K events · 200 ads · 50 campaigns · 10K user records
+
+---
+
+## Dashboard
+
+**Tableau Public:**
+https://public.tableau.com/views/AudienceTargeting_17876856231030/AudienceTargeting
+https://public.tableau.com/views/GrowthMarketingPerformance/GrowthMarketingPerformance
 
 ---
 
@@ -383,11 +391,3 @@ The project focuses instead on event-level advertising performance, comparative 
 - Interactive data visualization
 - Data storytelling
 - Analytical decision-making
-
----
-
-## Dashboard
-
-**Tableau Public:**
-https://public.tableau.com/views/AudienceTargeting_17876856231030/AudienceTargeting
-https://public.tableau.com/views/GrowthMarketingPerformance/GrowthMarketingPerformance
